@@ -33,6 +33,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
+## How to use?
+
+Download this repositorie and with your teminal, enter in the directory
+
+1. Run the command `npm install` to install the dependencies
+2. After, run the command `npm run init-db` to install the database
+3. And to start the application, run the command `npm start` 
+
 ## 💻 Projeto
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
